@@ -33,9 +33,9 @@ ML-LEARNING-PATH/
 │ │ ├── Breast_Cancer/
 │ │ ├── CNN/
 │ │ ├── Data_Survei_Lung_Cancer/
-│ │ ├── Feature_Engineering/ (Note: typo in the original folder name "Enginering")
+│ │ ├── Feature_Engineering/ 
 │ │ ├── HierarchicalClustering/
-│ │ ├── NaiveBayes_And_KNN/ (Note: typo in the original folder name "NavieBayes")
+│ │ ├── NaiveBayes_And_KNN/ 
 │ │ ├── RandomForest_Clasifikasi/
 │ │ └── SVM_Clasifikasi/
 │ │
